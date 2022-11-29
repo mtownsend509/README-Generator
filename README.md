@@ -3,7 +3,8 @@
 ## Description
       
 This is an application designed to create a professional README file when given user inputs. Note: this README was generated with the application.
-                  
+ [Untitled_ Nov 28, 2022 10_43 PM (1).webm](https://user-images.githubusercontent.com/111660791/204460116-d5fed507-e00f-43e9-887f-5d0e71a97a23.webm)
+                 
 ## Table of Contents
 
 1. [Description](#description)
