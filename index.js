@@ -40,10 +40,10 @@ ${data.description}
 
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Usage](# Usage)
-4. [Contributing](# Constributing)
-5. [Tests](# Tests)
-6. [Questions](# Questions)
+3. [Usage](#usage)
+4. [Contributing](#constributing)
+5. [Tests](#tests)
+6. [Questions](#questions)
 
 ## Installation
 
