@@ -38,12 +38,12 @@ ${data.description}
                   
 ## Table of Contents
 
-[Description](## Description)
-[Installation](## Installation)
-[Usage](## Usage)
-[Contributing](## Constributing)
-[Tests](## Tests)
-[Questions](## Questions)
+[Description](# Description)
+[Installation](# Installation)
+[Usage](# Usage)
+[Contributing](# Constributing)
+[Tests](# Tests)
+[Questions](# Questions)
 
 ## Installation
 
