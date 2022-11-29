@@ -1,8 +1,8 @@
-# gdag [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Matt's Application [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description <a name="description"></a>
       
-gaf
+Here is where a description of the application goes
                   
 ## Table of Contents
 
@@ -15,25 +15,25 @@ gaf
 
 ## Installation
 
-gfa
+here is where installation instructions go
       
 ## Usage
       
-gfa
+here is where usage instructions go
       
 ## License
 
-This application uses the Apache 2.0 license
+This application uses the MIT license
       
 ## Contributing
 
-agafg
+here are contribution guidelines
       
 ## Tests
 
-gfdag
+Here are testing guidelines
 
 ## Questions
 
-For additional questions please contact efasfesa
-https://github.com/aefsafe
+For additional questions please contact email@email.com
+https://github.com/mtownsend509

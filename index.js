@@ -97,11 +97,6 @@ inquirer
     },
     {
       type: 'input',
-      message: 'Please provide a link to your application:',
-      name: 'link',
-    },
-    {
-      type: 'input',
       message: 'Please provide contribution guidelines for contributers of your application:',
       name: 'contribution',
     },
@@ -128,15 +123,7 @@ inquirer
     }
   ])
   .then((response) => {
-      console.log(response.name);
-      console.log(response.description);
-      console.log(response.installation);
-      console.log(response.link);
-      console.log(response.contribution);
-      console.log(response.license);
-      console.log(response.email);
-      console.log(response.username);
-      let name = response.fileName;
+
     writeToFile(response);
 
 });
