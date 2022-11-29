@@ -32,14 +32,14 @@ function writeToFile(data) {
     fs.writeFile('README.md', 
 `# ${data.name} ${licenseBadge}
 
-## Description
+## Description(#description)
       
 ${data.description}<a name="description></a>
                   
 ## Table of Contents
 
-[Description](# Description)
-[Installation](# Installation)
+Description(# Description)
+Installation(#installation)
 [Usage](# Usage)
 [Contributing](# Constributing)
 [Tests](# Tests)
