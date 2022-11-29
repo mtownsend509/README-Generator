@@ -1,27 +1,22 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-// function renderLicenseBadge(response) {}
-//   if (response.license == 'Artistic 2.0'){
+function renderLicenseBadge(response) {}
 
-//   } else if (response.license == 'Eclipse Public 1.0') {
+// TODO: Create a function that returns the license link
+// If there is no license, return an empty string
+function renderLicenseLink(license) {}
 
-//   } else if (response.license == 'Microsoft Public') {
+// TODO: Create a function that returns the license section of README
+// If there is no license, return an empty string
+function renderLicenseSection(license) {}
 
-//   } else if (response.license == 'MIT') {
+// TODO: Create a function to generate markdown for README
+function generateMarkdown(data) {
 
-//   } else
-//   'Artistic 2.0', 'Eclipse Public 1.0', 'Microsoft Public', 'MIT', 'NA'
-// // TODO: Create a function that returns the license link
-// // If there is no license, return an empty string
-// function renderLicenseLink(license) {}
+}
 
-// // TODO: Create a function that returns the license section of README
-// // If there is no license, return an empty string
-// function renderLicenseSection(license) {}
+module.exports = generateMarkdown;i
 
-// // TODO: Create a function to generate markdown for README
-// function generateMarkdown(data) {
-
-// }
-
-// module.exports = generateMarkdown;i
+//I did all this stuff but in the index.js file, it makes no sense to separate all these into different functions
+//rather than just making the license section in the same function I make all the other sections
+//also the badge is a link.
