@@ -1,8 +1,8 @@
-# Matts app [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Description <a name="description"></a>
+## Description
       
-Here is where the description goes
+This is an application designed to create a professional README file when given user inputs. Note: this README was generated with the application.
                   
 ## Table of Contents
 
@@ -15,11 +15,11 @@ Here is where the description goes
 
 ## Installation
 
-Here's where installation instructions go
+Please install inquirer version 8.2.4 by typing npm install inquirer@8.2.4 into the command line in README-Generator.
       
 ## Usage
       
-Here's where usage instructions go
+To use the application type 'node index.js' into the command line in README-Generator. Then answer each prompt as the come up and the README file will generate upon completion
       
 ## License
 
@@ -27,11 +27,11 @@ This application uses the MIT license
       
 ## Contributing
 
-Here's where contribution guidelines go
+NA
       
 ## Tests
 
-Here's where test instructions go
+NA
 
 ## Questions
 
