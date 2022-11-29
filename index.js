@@ -34,7 +34,7 @@ function writeToFile(data) {
 
 ## Description
       
-${data.description}
+${data.description} <a name="Description></a>
                   
 ## Table of Contents
 
